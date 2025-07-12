@@ -1,4 +1,13 @@
 class Demo{
+	public void m1(){
+		int i = 10;
+		int j = 20;
+		
+		System.out.println(i+j);
+	}
+
+	
+
 
 	//Task - 321
 	public void m2(){
